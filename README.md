@@ -4,3 +4,8 @@ Ce  script fait par moi
 
 Exemple : http://n005char.netne.net/ra/
 Plus : http://epcminecraft.fr.gd/Cr-e2-e-son-propre-site-de-gen-e2-rateur-de-liens-courts.htm
+
+-----
+
+This script generate smaller link than the offical link. 
+Example http://n005char.netne.net/ra/
